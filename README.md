@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [Mohamed Elhaouil], a Cloud DevOps Enthusiast and Problem Solving lover.
+I'm **Mohamed Elhaouil**, a Cloud DevOps Enthusiast and Problem Solving lover.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 
 -   **[Email](mailto:mohamedelhaouil37@gmail.com)**
 -   **[LinkedIn](https://www.linkedin.com/in/mohamedelhaouil)**
